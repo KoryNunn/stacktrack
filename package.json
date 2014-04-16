@@ -1,6 +1,6 @@
 {
   "name": "stack-track",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Tracks the state of a stack, and raises events when it changes.",
   "main": "stackTrack.js",
   "directories": {
