@@ -1,0 +1,26 @@
+{
+  "name": "stack-track",
+  "version": "0.0.0",
+  "description": "Tracks the state of a stack, and raises events when it changes.",
+  "main": "stackTrack.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grape": "^0.1.10"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KoryNunn/stacktrack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/stacktrack/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/stacktrack"
+}
